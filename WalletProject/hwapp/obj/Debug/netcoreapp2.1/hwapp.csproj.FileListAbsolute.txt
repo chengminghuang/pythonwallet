@@ -1,0 +1,11 @@
+/home/python/Desktop/WalletProject/hwapp/bin/Debug/netcoreapp2.1/hwapp.deps.json
+/home/python/Desktop/WalletProject/hwapp/bin/Debug/netcoreapp2.1/hwapp.runtimeconfig.json
+/home/python/Desktop/WalletProject/hwapp/bin/Debug/netcoreapp2.1/hwapp.runtimeconfig.dev.json
+/home/python/Desktop/WalletProject/hwapp/bin/Debug/netcoreapp2.1/hwapp.dll
+/home/python/Desktop/WalletProject/hwapp/bin/Debug/netcoreapp2.1/hwapp.pdb
+/home/python/Desktop/WalletProject/hwapp/obj/Debug/netcoreapp2.1/hwapp.csprojAssemblyReference.cache
+/home/python/Desktop/WalletProject/hwapp/obj/Debug/netcoreapp2.1/hwapp.csproj.CoreCompileInputs.cache
+/home/python/Desktop/WalletProject/hwapp/obj/Debug/netcoreapp2.1/hwapp.AssemblyInfoInputs.cache
+/home/python/Desktop/WalletProject/hwapp/obj/Debug/netcoreapp2.1/hwapp.AssemblyInfo.cs
+/home/python/Desktop/WalletProject/hwapp/obj/Debug/netcoreapp2.1/hwapp.dll
+/home/python/Desktop/WalletProject/hwapp/obj/Debug/netcoreapp2.1/hwapp.pdb
